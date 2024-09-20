@@ -1,0 +1,5 @@
+
+Enter the number to search:9
+Choose the method to search: 1. Linear Search   2. Binary Search2
+Element found at index 2 using binary search
+PS C:\Users\HP\Desktop\S.Y. Assignments>
